@@ -1,7 +1,7 @@
 
 <hr>
 
-# Modelo para Apresentação do Aluno
+# Apresentação do Aluno
 
 # Aluno
 * Marcos Toshio UEDA
