@@ -10,7 +10,7 @@ public class AppLombriga {
       //lombrigas[0] = "151105MMMMVMMMMMCCV";
       Animacao lom[] = new Animacao[lombrigas.length];
       for (int l = 0; l < lombrigas.length; l++) {
-    	  System.out.println(lombrigas[l]);
+    	  //System.out.println(lombrigas[l]);
     	  lom[l] = new Animacao(lombrigas[l]);
     	  tk.gravaPasso("=====");
     	  tk.gravaPasso(lom[l].apresenta());
